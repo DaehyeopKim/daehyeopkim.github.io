@@ -530,8 +530,8 @@ latest_posts:
 </p>
 
 <p>
-  I work on Scientific Machine Learning with Computer Graphics,<br>
-  with a focus on PINNs.
+  My research interests lie in Scientific Machine Learning for modeling, forecasting, and state estimation of fluid flows across kinetic and continuum regimes.
+  I am particularly interested in treating physical fields as visual data and using techniques from computer vision and image processing to capture their structure and dynamics.
 </p>
 
 <p class="profile-links">
